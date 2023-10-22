@@ -10,3 +10,6 @@ Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.gi
 - [x] Turn on GitHub Pages
 - [x] Outline my portfolio
 - [x] Introduce myself to the world
+- [ ] Make a task list
+- [ ] Merge start-markdown pull request
+- [ ] Finish the assignment
